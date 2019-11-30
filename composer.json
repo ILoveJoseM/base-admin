@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "JoseChan\\Base\\Admin": "src/"
+      "JoseChan\\Base\\Admin\\": "src/"
     }
   },
   "autoload-dev": {
